@@ -14,7 +14,10 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.1 r9760"
-   sodipodi:docname="dlogo-mafi.svg">
+   sodipodi:docname="dlogo-mafi.svg"
+   inkscape:export-filename="/home/james/dev/d-brand/dlogo-mafi.png"
+   inkscape:export-xdpi="300.23999"
+   inkscape:export-ydpi="300.23999">
   <defs
      id="defs4">
     <inkscape:perspective
@@ -55,7 +58,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -93,7 +96,7 @@
          id="tspan2818"
          x="216.56465"
          y="324.6553"
-         style="font-size:62.16292953px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#800000;stroke:#ffffff;stroke-width:1.5;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:Verdana;-inkscape-font-specification:Verdana Italic">D</tspan></text>
+         style="font-size:62.16292952999999954px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#800000;stroke:#ffffff;stroke-width:1.50000000000000000;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans">D</tspan></text>
     <path
        sodipodi:type="arc"
        style="color:#000000;fill:#800000;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
