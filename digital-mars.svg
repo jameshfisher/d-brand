@@ -15,7 +15,10 @@
    id="svg2915"
    version="1.1"
    inkscape:version="0.47 r22583"
-   sodipodi:docname="digital-mars.svg">
+   sodipodi:docname="digital-mars.svg"
+   inkscape:export-filename="/home/lm/digital-mars.png"
+   inkscape:export-xdpi="300.23999"
+   inkscape:export-ydpi="300.23999">
   <defs
      id="defs2917">
     <linearGradient
@@ -127,9 +130,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4"
-     inkscape:cx="109.20904"
-     inkscape:cy="156.10358"
+     inkscape:zoom="2.8"
+     inkscape:cx="146.35857"
+     inkscape:cy="91.95753"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -228,7 +231,8 @@
          sodipodi:role="line"
          id="tspan3792"
          x="285.1958"
-         y="612.16168">DIGITAL</tspan></text>
+         y="612.16168"
+         style="-inkscape-font-specification:Liberation Sans;font-family:Liberation Sans;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">DIGITAL</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:44.51493454px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
@@ -239,7 +243,8 @@
          sodipodi:role="line"
          id="tspan3796"
          x="302.58847"
-         y="698.05371">MARS</tspan></text>
+         y="698.05371"
+         style="-inkscape-font-specification:Liberation Sans;font-family:Liberation Sans;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">MARS</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:4.65840721px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
@@ -249,6 +254,7 @@
          sodipodi:role="line"
          id="tspan3800"
          x="646.52277"
-         y="464.15979">TM</tspan></text>
+         y="464.15979"
+         style="-inkscape-font-specification:Liberation Sans;font-family:Liberation Sans;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">TM</tspan></text>
   </g>
 </svg>
