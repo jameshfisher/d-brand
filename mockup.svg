@@ -16,9 +16,9 @@
    width="712.5"
    height="601.5"
    sodipodi:docname="mockup.svg"
-   inkscape:export-filename="/home/lm/d-logo-3.2.png"
-   inkscape:export-xdpi="300.23999"
-   inkscape:export-ydpi="300.23999">
+   inkscape:export-filename="/home/lm/mockup.png"
+   inkscape:export-xdpi="200.21053"
+   inkscape:export-ydpi="200.21053">
   <metadata
      id="metadata8">
     <rdf:RDF>
@@ -27,7 +27,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -562,6 +562,15 @@
          d="m 362.21545,113.87115 -1.41422,-27.400385 -18.208,-13.788582 0.70711,-0.883884 13.78858,5.656854 -5.12652,-13.258252 0,-0.707107 38.36054,-6.010407 7.42462,19.091883 10.96016,-17.500893 37.65343,7.954951 -0.35355,0.53033 -3.53553,7.071068 7.60139,-2.65165 0.17678,0.883883 -16.44023,15.026019 -0.88388,24.748742 -36.76956,18.73833 -33.94112,-17.5009 z"
          id="path6959" />
     </clipPath>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient6692"
+       id="linearGradient3308"
+       gradientUnits="userSpaceOnUse"
+       x1="131.23828"
+       y1="119.96783"
+       x2="130.15625"
+       y2="322.96783" />
   </defs>
   <sodipodi:namedview
      pagecolor="#ffffff"
@@ -576,12 +585,12 @@
      inkscape:window-height="976"
      id="namedview4"
      showgrid="false"
-     showguides="true"
+     showguides="false"
      inkscape:guide-bbox="true"
      inkscape:snap-global="false"
-     inkscape:zoom="1.4142136"
-     inkscape:cx="259.22278"
-     inkscape:cy="426.30543"
+     inkscape:zoom="1"
+     inkscape:cx="382.61997"
+     inkscape:cy="359.15118"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -1212,11 +1221,18 @@
        id="flowPara6348"
        style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:url(#linearGradient6766);fill-opacity:1;font-family:Open Sans;-inkscape-font-specification:Open Sans" /><flowPara
        id="flowPara6350"
-       style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:url(#linearGradient6768);fill-opacity:1;font-family:Open Sans;-inkscape-font-specification:Open Sans" /></flowRoot>  <flowRoot
+       style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:url(#linearGradient6768);fill-opacity:1;font-family:Open Sans;-inkscape-font-specification:Open Sans" /></flowRoot>  <rect
+     style="opacity:0.16017318;fill:#ffffff;fill-opacity:1;stroke:none"
+     id="rect4281"
+     width="54.093666"
+     height="58.336308"
+     x="131.73328"
+     y="-3.4298356" />
+  <flowRoot
      xml:space="preserve"
      id="flowRoot6314-9"
      style="font-size:40px;font-style:normal;font-weight:normal;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
-     transform="matrix(0.79564211,0,0,0.79564211,30.84827,-15.078565)"><flowRegion
+     transform="matrix(0.79564211,0,0,0.79564211,30.84827,-3.078565)"><flowRegion
        id="flowRegion6316-9"
        style="fill:url(#linearGradient6498-2);fill-opacity:1"><rect
          id="rect6318-8"
@@ -1226,7 +1242,7 @@
          y="30.150238"
          style="fill:#ffffff;fill-opacity:1" /></flowRegion><flowPara
        id="flowPara6320-1"
-       style="font-size:10.05477238px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;fill-opacity:1;font-family:Open Sans;-inkscape-font-specification:Open Sans">Home              Why D?               Download             Documentation             Tutorial               Community</flowPara></flowRoot>  <flowRoot
+       style="font-size:10.05477238px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;fill-opacity:1;font-family:Open Sans;-inkscape-font-specification:Open Sans">      Home               Why D?           Try it Now             Download            Documentation            Tutorial              Community</flowPara></flowRoot>  <flowRoot
      transform="translate(-101.34375,52.143496)"
      style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
      id="flowRoot6559"
@@ -1243,6 +1259,24 @@
        id="flowPara6627">D is awesome (2 Jul)</flowPara><flowPara
        style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Open Sans;-inkscape-font-specification:Open Sans"
        id="flowPara6655">D is super (1 Jul)</flowPara><flowPara
+       style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+       id="flowPara4283" /><flowPara
+       style="font-size:8px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+       id="flowPara4287">Download<flowSpan
+   style="font-weight:normal"
+   id="flowSpan4309"> (2.053)</flowSpan></flowPara><flowPara
+       style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+       id="flowPara4301">All platforms</flowPara><flowPara
+       style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+       id="flowPara4297">Win32 1-click install</flowPara><flowPara
+       style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+       id="flowPara4295">Ubuntu .deb</flowPara><flowPara
+       style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+       id="flowPara4303">Fedora .rpm</flowPara><flowPara
+       style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+       id="flowPara4307">OpenSUSE rpm</flowPara><flowPara
+       style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Open Sans;-inkscape-font-specification:Open Sans"
+       id="flowPara4305" /><flowPara
        style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Open Sans;-inkscape-font-specification:Open Sans"
        id="flowPara6688" /><flowPara
        style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Open Sans;-inkscape-font-specification:Open Sans"
@@ -1262,4 +1296,52 @@
        id="tspan6645"
        x="112.44796"
        y="246.60318">“</tspan></text>
+  <rect
+     style="fill:#e0dcd9;fill-opacity:1;stroke:#000000;stroke-opacity:0.11682243;stroke-width:0.50000000000000000;stroke-miterlimit:4;stroke-dasharray:none"
+     id="rect4244"
+     width="114.48022"
+     height="80.024384"
+     x="458.27625"
+     y="54.763077" />
+  <flowRoot
+     transform="matrix(0.93494815,0,0,0.93494815,346.2181,-44.383346)"
+     style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+     id="flowRoot3272"
+     xml:space="preserve"><flowRegion
+       style="fill:url(#linearGradient3308);fill-opacity:1"
+       id="flowRegion3274"><rect
+         style="fill:#000000;fill-opacity:1"
+         y="127.20328"
+         x="129.13669"
+         height="185.75748"
+         width="438.30954"
+         id="rect3276" /></flowRegion><flowPara
+       style="font-size:8px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#555753;fill-opacity:1;font-family:Inconsolata;-inkscape-font-specification:Inconsolata Medium"
+       id="flowPara4226">#!/usr/bin/rdmd</flowPara><flowPara
+       style="font-size:8px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;fill-opacity:1;font-family:Inconsolata;-inkscape-font-specification:Inconsolata Medium"
+       id="flowPara4224"><flowSpan
+   style="fill:#ef2929"
+   id="flowSpan4236">import</flowSpan> std.stdio;</flowPara><flowPara
+       style="font-size:8px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;fill-opacity:1;font-family:Inconsolata;-inkscape-font-specification:Inconsolata Medium"
+       id="flowPara4216"><flowSpan
+   style="fill:#5c3566"
+   id="flowSpan4240">void</flowSpan> main(<flowSpan
+   style="fill:#5c3566"
+   id="flowSpan4242">string</flowSpan>[] args) {</flowPara><flowPara
+       style="font-size:8px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;fill-opacity:1;font-family:Inconsolata;-inkscape-font-specification:Inconsolata Medium"
+       id="flowPara4218">  writeln(<flowSpan
+   style="fill:#3465a4"
+   id="flowSpan4234">&quot;Hello, World!&quot;</flowSpan>);</flowPara><flowPara
+       style="font-size:8px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;fill-opacity:1;font-family:Inconsolata;-inkscape-font-specification:Inconsolata Medium"
+       id="flowPara4220">}</flowPara></flowRoot>  <text
+     xml:space="preserve"
+     style="font-size:6.24692059000000022px;font-style:normal;font-weight:normal;fill:#4a0000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+     x="541.34839"
+     y="128.47797"
+     id="text4246"><tspan
+       sodipodi:role="line"
+       id="tspan4248"
+       x="541.34839"
+       y="128.47797"
+       style="font-weight:bold;fill:#4a0000;fill-opacity:1">RUN IT</tspan></text>
 </svg>
