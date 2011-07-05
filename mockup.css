@@ -1,0 +1,14 @@
+body {
+  margin: 0;
+}
+#nav {
+  background-color: #132426;
+}
+#nav ul {
+}
+#nav ul li {
+  display: block;
+  float: left;
+  height: 40px;
+}
+.clear { clear: both; }
